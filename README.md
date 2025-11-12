@@ -91,5 +91,3 @@ Through this project, I gained hands-on experience in:
 **Dharanika M**
 🎓 Final Year IT Engineering Student | 📊 Aspiring Data Analyst
 
-
-Would you like me to make this README **GitHub-styled with emojis, headings, and preview image placement (for dashboard screenshot)** so it looks visually appealing on your repo page?
